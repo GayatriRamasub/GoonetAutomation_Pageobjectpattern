@@ -45,14 +45,8 @@
   obj.selectByIndex(2);
     
   executor.executeScript("return document.getElementById('select_car_cd-button').remove();");
-		
-		
 
-
-		
-		
-
-		
+Here is a video attached for that-
 
 https://github.com/GayatriRamasub/GoonetAutomation_Pageobjectpattern/assets/43459719/8688b031-663d-439a-a3a3-1fdb7a63a54f
 
